@@ -1,4 +1,5 @@
-# Repository for Activity 9.1
+# Repository for Activity 9.1 and 9.2
+
 
 ## PCDE-Activity-9.1
 
